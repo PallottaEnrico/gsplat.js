@@ -1,5 +1,5 @@
 # gsplat.js
-
+[demo](examples/scene-transformations/index.html)
 #### JavaScript Gaussian Splatting library
 
 gsplat.js is an easy-to-use, general-purpose, open-source 3D Gaussian Splatting library, providing functionality similar to [three.js](https://github.com/mrdoob/three.js) but for Gaussian Splatting.
